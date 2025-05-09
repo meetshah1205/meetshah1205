@@ -16,4 +16,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meetshah1205&show_icons=true&locale=en" alt="meetshah1205" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meetshah1205&" alt="meetshah1205" /></p>
+<p><img align="center" src="https://i.pinimg.com/236x/0e/be/8f/0ebe8f1d00f5d866a6285e6e022da041.jpg" alt="penguin :)" /></p>
